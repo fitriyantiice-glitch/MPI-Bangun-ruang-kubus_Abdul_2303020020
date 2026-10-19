@@ -1,1 +1,1 @@
-# MPI-Bangun-ruang-kubus_Abdul_2303020020
+# Bangun-ruang-kubus_Abdul_2303020020
